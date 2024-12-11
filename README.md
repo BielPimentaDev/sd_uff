@@ -7,8 +7,8 @@ Este projeto é composto por um frontend em Next.js e um backend em Python, util
 
 O projeto está organizado da seguinte maneira:
 
-- `frontend/` - Contém o código do frontend (Next.js).
-- Backend - Contém o código do backend em Python.
+- `/snkrshouse` - Contém o código do snkrshouse (Next.js).
+- /api_python_SD - Contém o código do backend em Python.
 - `docker-compose.yml` - Arquivo para configurar e executar o backend com Docker.
 
 ## Executando o Frontend
@@ -20,7 +20,7 @@ O frontend é desenvolvido com Next.js. Para executá-lo localmente, siga os pas
 Acesse a pasta `frontend` e instale as dependências necessárias com o comando:
 
 ```bash
-cd frontend
+cd snkrshouse
 npm install
 ```
 
